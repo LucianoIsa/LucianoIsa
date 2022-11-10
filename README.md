@@ -2,7 +2,7 @@
 - 👀 Me interesa todo lo relacionado con el desarrollo de software, me encanta programar.
 - 🌱 Estudio y trabajo con  Java, Maven, ApiRest, javaScript, Html5, Css3, Php, React, Base de datos relacionales, como MySQL , entre otras tecnologias.
 - Me encuentro realizando la carrera de FULLSTACK DEVELOPER, en la Universidad Nacional de Cordoba.
-- Tambien realicé un  Bootcamp de 6 meses de capacitacion en Oracle Latam.
+- Tambien realicé un  Bootcamp de 6 meses de capacitacion en Oracle Latam y capacitaciones sobre Springboot,JPA y WebServices en EducaciónIT
 - Soy AUTODIDACTA, trato de capacitarme constantemente.
 -Para contactarme puede ser al correo lucianoisabb@hotmail.com  o  al whatsapp +5492914759116
 Linkedin:  www.linkedin.com/in/luciano-isa/
